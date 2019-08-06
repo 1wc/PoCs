@@ -89,7 +89,7 @@ https://gitlab.freedesktop.org/libopenraw/exempi/issues/12
 
 [Patch](https://gitlab.freedesktop.org/libopenraw/exempi/commit/acee2894ceb91616543927c2a6e45050c60f98f7)
 
-###0x02  heap-based buffer over-read in ID3_Support.cpp
+### 0x02  heap-based buffer over-read in ID3_Support.cpp
 
 ```
 liwc@ubuntu:~/exempi-master_asan/exempi$ ./exempi -x poc
